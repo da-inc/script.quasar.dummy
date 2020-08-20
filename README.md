@@ -1,7 +1,7 @@
 Introduction
 ===================
 This is a sample dummy provider for Quasar.
-
+test
 **PLEASE NOTE THAT THIS IS SUBJECT TO CHANGE QUITE HEAVILY**
 
 When Quasar wants to find a stream for a media, it will call all the providers installed on the locally running XBMC instance.
